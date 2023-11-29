@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me              "
+title                    : "              About Me              "
 title_separator          : "-"
 name                     : &name "Pan ZHOU"
 description              : &description "personal description"
