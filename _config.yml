@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Pan ZHOU"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pan ZHOU (周攀)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              :
   location         :
   employer         :
   pubmed           :
