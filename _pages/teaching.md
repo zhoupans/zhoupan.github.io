@@ -18,7 +18,7 @@ Teaching Experience
 
   
     
-     $  \quad  $
+
 
 
 2) Teaching Assistant at National University of Singapore (Sep 2017 - Jul 2018)
@@ -27,7 +27,7 @@ Teaching Experience
       <!-- * Taught basic concepts of programming language Verilog, usage of FPGA, and ARM programming
       * Guided students to conduct FPGA and ARM programming and analysis -->
 
-   $  \quad  $
+
 
 3) Teaching Assistant at Peking University (Sep - Dec 2012)
    
