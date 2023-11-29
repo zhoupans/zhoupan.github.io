@@ -20,7 +20,7 @@ My target is ``towards an efficient and effective artificial general intelligent
 ![Editing a markdown file for a talk](/images/research.png)
 
 
-: **1)	Network Architecture Design**: develop innovative network topology that posses high capacity and efficiency for acquiring knowledge, thereby improving the overall model capacity of AI/AGI.
+**1)	Network Architecture Design**: develop innovative network topology that posses high capacity and efficiency for acquiring knowledge, thereby improving the overall model capacity of AI/AGI.
 
 : **2)	Learning Framework**: design effective learning framework / training task / loss to formulate a problem so that the network model can learn general and transferable features to handle diverse tasks, brining AGI closer. 
 
@@ -30,6 +30,6 @@ My target is ``towards an efficient and effective artificial general intelligent
 
     :	> **c) Meta In-Context Learning**: design new meta-learning and prompt learning methods to aid a (pretrained) model in quickly learning from a few data, improving few-shot learning ability of AGI. 
 
-: **3)	Parameter Optimizer**: design efficient optimizers to train networks efficiently, making AI and AGI model efficient.
+**3)	Parameter Optimizer**: design efficient optimizers to train networks efficiently, making AI and AGI model efficient.
 
 I am open to collaboration on the above topics or other ones. If you are intinterested, please drop me an email panzhou3@gmail.com. 
