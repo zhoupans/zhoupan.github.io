@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ZHOU Pan's personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
