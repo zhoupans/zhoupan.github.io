@@ -7,7 +7,7 @@ redirect_from:
 ---
 
  
-Teaching Experience
+
 ======
 
 1) Teaching Assistant at National University of Singapore (Jan - Jul 2018)
