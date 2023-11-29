@@ -15,6 +15,7 @@ I am a senior Research Scientist in the Sea AI Lab of the Sea group. Before, I w
 
 Research Interests
 ======
+My target is ``towards an efficient and effective artificial general intelligent system (AGI)” with three research interests as shown in the figure.
 
 ![Editing a markdown file for a talk](/images/research.png)
 
