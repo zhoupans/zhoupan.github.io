@@ -2,13 +2,12 @@
 layout: archive
 permalink: /teaching/
 author_profile: true
+title: "Teaching Experience"
 redirect_from:
   - /teaching
 ---
 
  
-
-======
 
 1) **Teaching Assistant at National University of Singapore** (Jan - Jul 2018)
 
