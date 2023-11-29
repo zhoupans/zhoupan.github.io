@@ -20,16 +20,16 @@ Research Interests
 ![Editing a markdown file for a talk](/images/research.png)
 
 
-**(1)	Network Architecture Design**: develop innovative network topology that posses high capacity and efficiency for acquiring knowledge, thereby improving the overall model capacity of AI/AGI.
+**1)	Network Architecture Design**: develop innovative network topology that posses high capacity and efficiency for acquiring knowledge, thereby improving the overall model capacity of AI/AGI.
 
-**(2)	Learning Framework**: design effective learning framework / training task / loss to formulate a problem so that the network model can learn general and transferable features to handle diverse tasks, brining AGI closer. 
+**2)	Learning Framework**: design effective learning framework / training task / loss to formulate a problem so that the network model can learn general and transferable features to handle diverse tasks, brining AGI closer. 
 
-1)	Self-Supervised Learning: design effective self-supervised learning (SSL) framework that enables AI model to learn general vision knowledge and achieve human's data recognition and analysis ability, bringing AGI closer.
+*	**Self-Supervised Learning**: design effective (multi-modal) self-supervised learning (SSL) framework that enables AI model to learn general vision knowledge and achieve human's data recognition and analysis ability, bringing AGI closer.
 
-2)	Generative Learning: design generative models like diffusion models that empowers AI models with imagination and creativity akin to that of humans, bringing AGI closer. 
+*	**Generative Learning**: design generative models like diffusion models that empowers AI models with imagination and creativity akin to that of humans, bringing AGI closer. 
 
-3)	Meta In-Context Learning: design new meta-learning and prompt learning methods to aid a (pretrained) model in quickly learning from a few data, improving few-shot learning ability of AGI. 
+*	**Meta In-Context Learning**: design new meta-learning and prompt learning methods to aid a (pretrained) model in quickly learning from a few data, improving few-shot learning ability of AGI. 
 
-**(3)	Parameter Optimizer**: design efficient optimizers to train networks efficiently, making AI and AGI model efficient.
+**3)	Parameter Optimizer**: design efficient optimizers to train networks efficiently, making AI and AGI model efficient.
 
 I am open to collaboration on the above topics or other ones. If you are intinterested, please drop me an email. 
